@@ -3,16 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/docs/gettingstarted/</loc>
-    <lastmod>2020-01-30T10:08:56+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/docs/gettingstarted/basic/</loc>
   </url>
   
   <url>
     <loc>/docs/ui/layout/</loc>
+  </url>
+  
+  <url>
+    <loc>/docs/gettingstarted/</loc>
+    <lastmod>2020-01-30T10:10:56+09:00</lastmod>
   </url>
   
   <url>
@@ -57,13 +57,13 @@
   </url>
   
   <url>
-    <loc>/docs/</loc>
+    <loc>/</loc>
     <lastmod>2020-02-09T17:43:01+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2020-02-09T17:43:01+09:00</lastmod>
+    <loc>/docs/</loc>
+    <lastmod>2020-01-11T14:09:21+09:00</lastmod>
   </url>
   
 </urlset>

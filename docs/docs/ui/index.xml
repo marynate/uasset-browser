@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>UAsset Browser UI on UAsset Browser</title>
+    <title>UI on UAsset Browser</title>
     <link>/docs/ui/</link>
-    <description>Recent content in UAsset Browser UI on UAsset Browser</description>
+    <description>Recent content in UI on UAsset Browser</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy;{year} Mary Nate, All Rights Reserved</copyright>
