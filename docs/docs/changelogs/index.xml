@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Change Logs on UAsset Browser</title>
+    <link>/docs/changelogs/</link>
+    <description>Recent content in Change Logs on UAsset Browser</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy;{year} Mary Nate, All Rights Reserved</copyright>
+    
+        <atom:link href="/docs/changelogs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>1.1.x</title>
+        <link>/docs/changelogs/1.1/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>/docs/changelogs/1.1/</guid>
+        <description>1.1.5  New: Now can drag and drop into Content Browser to import New: Add Import and place asset to level editor viewport context menu New: Add plugin content import support (experimental) New: Add validate/import asset context menu Fix: Not implmented export setting should be hidden  1.1.4  New: Flat Import to import uasset with all dependencies into one folder
+(It&amp;rsquo;s highly recommended to alwasy flat import an empty folder to avoid conflicts) New: Add initial redirector support, now can import uasset depends on redirectors New: Add Reload Root Folder context menu to path view Improve: Auto hide toolbar buttons Improve: Now validate one uasset file show more informative info Improve: Skip Import If Any Dependency Missing option now also apply to invalid uasset Fix: Core Redirects should be taking into account when validating packages  1.</description>
+      </item>
+      
+      <item>
+        <title>1.0.x</title>
+        <link>/docs/changelogs/1.0/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>/docs/changelogs/1.0/</guid>
+        <description>1.0.5  Add refresh folder context menu to refresh folder changes  1.0.4  Add Import Options Add option to load/reload assets right after import Add option to overwrite existing assets when import Add option to try import even invalid/missing dependencies found Add option to rollback or keep failed import Add option to find imported assets in Content Browser  1.0.3  Add Column view type  1.0.2  Add List view type  1.</description>
+      </item>
+      
+    
+  </channel>
+</rss>

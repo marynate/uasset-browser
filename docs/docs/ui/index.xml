@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UAsset Browser UI on UAsset Browser</title>
+    <link>/docs/ui/</link>
+    <description>Recent content in UAsset Browser UI on UAsset Browser</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy;{year} Mary Nate, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 30 Jan 2020 10:10:56 +0900</lastBuildDate>
+    
+        <atom:link href="/docs/ui/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Layout</title>
+        <link>/docs/ui/layout/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>/docs/ui/layout/</guid>
+        <description>Folder Tree  Folder Tree (or Source Tree) is a hierarchical representation of all the folders you added.
+Asset View  Content of selected folder will be displayed in the Asset View.
+Search and Filter  Search and filter usset files by name / type or any asset registry tags.
+UAsset Toolbar  Toobar buttons with actions can be performed on selected uasset files.
+Dependency Viewer  Display dependency graphy of selected uasset file.</description>
+      </item>
+      
+      <item>
+        <title>Folder Tree</title>
+        <link>/docs/ui/foldertree/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>/docs/ui/foldertree/</guid>
+        <description>Folder Tree (or Source Tree) is a hierarchical representation of all the folders you added in the UAsset Browser. Root Content Folder Types There&amp;rsquo;re 4 types of folder you can add as root content folder.
+ Project Content Folder  Project Content Folder is the Content folder of an unreal project.
+e.g. The Content folder of ActionRPG425 project.
+VaultCache Content Folder  VaultCache Content Folder is the Content folder inside Unreal Engien Vault Cache Item&amp;rsquo;s data folder.</description>
+      </item>
+      
+      <item>
+        <title>Asset View</title>
+        <link>/docs/ui/assetview/</link>
+        <pubDate>Thu, 30 Jan 2020 11:54:22 +0900</pubDate>
+        
+        <guid>/docs/ui/assetview/</guid>
+        <description>Asset View display all uasset files within a folder. Overview Select a folder in Folder Tree to display assets inside the folder.
+Use Ctrl + Mouse Wheel or Thumbnail Scale Slider to change the scale of the asset thumbnails.
+Mouse hover the asset thumbnail to view asset meta datas.
+Options View Type  Tiles
+Switch to tile view.
+   List
+Switch to list view.
+   Columns</description>
+      </item>
+      
+      <item>
+        <title>Dependency Viewer</title>
+        <link>/docs/ui/dependencyviewer/</link>
+        <pubDate>Thu, 30 Jan 2020 11:58:18 +0900</pubDate>
+        
+        <guid>/docs/ui/dependencyviewer/</guid>
+        <description>Dependency Viewer display a grpah of uasset files that been referenced by current selected asset. Toggle Tree Panel Click the Dependency Viewer button beside the search bar on Asset View to toggle the display of Dependency Viewer.
+Display Depencency Graph for Selected Asset To display depencency graph for selected asset, makre sure Dependency Viewer is toggled on, then select the asset in Asset View, the dependency graph will be displayed in Dependency Viewer.</description>
+      </item>
+      
+      <item>
+        <title>Validate</title>
+        <link>/docs/ui/validate/</link>
+        <pubDate>Thu, 30 Jan 2020 11:45:49 +0900</pubDate>
+        
+        <guid>/docs/ui/validate/</guid>
+        <description>Validation Status Overlay Make sure Show Validation Status Overlay option is on in Asset View&amp;rsquo;s View Options.
+A small icon will be displayed as overlay on asset thumbnail to indiate asset&amp;rsquo;s validation status.
+There&amp;rsquo;re 4 validation status:
+ Unknown The asset has not been validated. The status is unknown.
+  Valid The asset has been validated and considered valid. A valid asset can be imported into current project.
+  Invalid The asset has been validated and considered invalid.</description>
+      </item>
+      
+      <item>
+        <title>Import</title>
+        <link>/docs/ui/import/</link>
+        <pubDate>Sun, 09 Feb 2020 17:43:01 +0900</pubDate>
+        
+        <guid>/docs/ui/import/</guid>
+        <description>Import Selected Assets To import selected uasset files, select them in the Asset View, then click Import or Flat Import button on the toolbar.
+Or you can right click on the selected uasset files, select Import or Flat Import from the conext menu.
+Import Options Click on the pull down button beside Import button to access Import Options.
+Basic Import Options  Abort If Dependency Missing
+Abort import task if any dependency of the uasset file is missing.</description>
+      </item>
+      
+    
+  </channel>
+</rss>
