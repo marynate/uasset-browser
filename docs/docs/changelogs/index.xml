@@ -14,13 +14,21 @@
     
       
       <item>
+        <title>1.2.x</title>
+        <link>/docs/changelogs/1.2/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>/docs/changelogs/1.2/</guid>
+        <description>1.2.4  New: Add Validate/Import support for partial project content folder  1.2.3  New: Add Blueprint Function Library to enable importing uasset files with blueprint New: Add Editor Utility Widget example to showcase blueprint usages New: Add Direct Copy import mode to copy selected uasset files without checking dependencies New: Add Import Project Colors to folder context menu when selecting a project folder in folder tree New: Add Copy File Path to copy os file paths of selected uasset files  1.</description>
+      </item>
+      
+      <item>
         <title>1.1.x</title>
         <link>/docs/changelogs/1.1/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>/docs/changelogs/1.1/</guid>
-        <description>1.1.5  New: Now can drag and drop into Content Browser to import New: Add Import and place asset to level editor viewport context menu New: Add plugin content import support (experimental) New: Add validate/import asset context menu Fix: Not implmented export setting should be hidden  1.1.4  New: Flat Import to import uasset with all dependencies into one folder
-(It&amp;rsquo;s highly recommended to alwasy flat import an empty folder to avoid conflicts) New: Add initial redirector support, now can import uasset depends on redirectors New: Add Reload Root Folder context menu to path view Improve: Auto hide toolbar buttons Improve: Now validate one uasset file show more informative info Improve: Skip Import If Any Dependency Missing option now also apply to invalid uasset Fix: Core Redirects should be taking into account when validating packages  1.</description>
+        <description>1.1.6  New: Add option to ignore folders start with dot (e.g. &amp;ldquo;.git&amp;rdquo;, &amp;ldquo;.vs&amp;rdquo;) New: Add option to ignore common non-content folders (e.g. Binaries, Config,DerivedDataCache, Intermediate, Resources, Saved, Source) New: Add option to add customize ignore folders New: Add context menu to import all assets in selected folder New: Now can open documentaiton from View Options -&amp;gt; Documentation  1.1.5  New: Now can drag and drop into Content Browser to import New: Add Import and place asset to level editor viewport context menu New: Add plugin content import support (experimental) New: Add validate/import asset context menu Fix: Not implmented export setting should be hidden  1.</description>
       </item>
       
       <item>

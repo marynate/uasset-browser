@@ -15,15 +15,41 @@
     
       
       <item>
-        <title>Basic</title>
-        <link>/docs/gettingstarted/basic/</link>
+        <title>Introduction</title>
+        <link>/docs/gettingstarted/intro/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>/docs/gettingstarted/basic/</guid>
+        <guid>/docs/gettingstarted/intro/</guid>
         <description>Introduction UAsset Browser is a code plugin for Unreal Engine 4.
 With UAsset Browser, you can preview uasset thumbnail, view dependency graph between uasset files, inspect/search/filter uasset meta data, and then import uasset file with all it&amp;rsquo;s dependencies including hard or soft references.
-  Install for Custom Engine Build The process should apply for installing any code plugin installation to a custom engine build.
-  Download suitbale plugin version from Marketplace</description>
+  </description>
+      </item>
+      
+      <item>
+        <title>Installation</title>
+        <link>/docs/gettingstarted/install/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>/docs/gettingstarted/install/</guid>
+        <description>Install for Custom Engine Build The process should apply for installing any code plugin installation to a custom engine build.
+  Download suitbale plugin version from Marketplace
+e.g. Download 4.25 version of the plugin if the custom engine build is a fork from 4.25 engine version.
+  Copy downloaded plugin to custom engine build&amp;rsquo;s plugin folder
+e.g. The plugin is stored in following folder for unreal engine 4.25 on windows</description>
+      </item>
+      
+      <item>
+        <title>Root Content Folder</title>
+        <link>/docs/gettingstarted/rootcontentfolder/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>/docs/gettingstarted/rootcontentfolder/</guid>
+        <description>What is Root Content Folder Root Content Folders are top level folders added to UAsset Browser.
+ Click here for more information on how to add/remove Root Content Folder.
+Root Content Folder Types There&amp;rsquo;re 4 types of folder you can add as root content folder.
+ Project Content Folder  Project Content Folder is the Content folder of an unreal project.
+e.g. The Content folder of ActionRPG425 project.
+Partial Project Folder  Partial Project Content Folder is the solo Content folder of an unreal project or plugin without full project or plugin directory structure.</description>
       </item>
       
     

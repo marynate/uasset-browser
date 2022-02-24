@@ -33,10 +33,10 @@ Dependency Viewer  Display dependency graphy of selected uasset file.</descripti
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>/docs/ui/foldertree/</guid>
-        <description>Folder Tree (or Source Tree) is a hierarchical representation of all the folders you added in the UAsset Browser. Root Content Folder Types There&amp;rsquo;re 4 types of folder you can add as root content folder.
- Project Content Folder  Project Content Folder is the Content folder of an unreal project.
-e.g. The Content folder of ActionRPG425 project.
-VaultCache Content Folder  VaultCache Content Folder is the Content folder inside Unreal Engien Vault Cache Item&amp;rsquo;s data folder.</description>
+        <description>Folder Tree (or Source Tree) is a hierarchical representation of all the folders you added in the UAsset Browser. Add Root Content Folder To add a root content folder to folder tree:
+  Click Add button
+  Select a folder from file system
+  The Content folder of a unreal project or Vault Cache data is prefered. The folder you selected will be added to the folder tree</description>
       </item>
       
       <item>
