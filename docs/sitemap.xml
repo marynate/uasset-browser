@@ -11,13 +11,16 @@
   </url>
   
   <url>
+    <loc>/docs/cachemode/whatiscachemode/</loc>
+  </url>
+  
+  <url>
     <loc>/docs/gettingstarted/</loc>
     <lastmod>2020-01-30T10:10:56+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/docs/ui/</loc>
-    <lastmod>2020-01-30T10:10:56+09:00</lastmod>
+    <loc>/docs/cachemode/enterexitcachemode/</loc>
   </url>
   
   <url>
@@ -38,6 +41,14 @@
   </url>
   
   <url>
+    <loc>/docs/cachemode/switchcachefile/</loc>
+  </url>
+  
+  <url>
+    <loc>/docs/cachemode/rescanvalidateparse/</loc>
+  </url>
+  
+  <url>
     <loc>/docs/ui/dependencyviewer/</loc>
     <lastmod>2020-01-30T11:58:18+09:00</lastmod>
   </url>
@@ -48,12 +59,26 @@
   </url>
   
   <url>
+    <loc>/docs/ui/import/</loc>
+    <lastmod>2020-02-09T17:43:01+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/ui/</loc>
+    <lastmod>2020-01-30T10:10:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/cachemode/</loc>
+    <lastmod>2020-01-30T10:10:56+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/docs/changelogs/</loc>
   </url>
   
   <url>
-    <loc>/docs/ui/import/</loc>
-    <lastmod>2020-02-09T17:43:01+09:00</lastmod>
+    <loc>/docs/changelogs/1.3/</loc>
   </url>
   
   <url>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cache Mode on UAsset Browser</title>
+    <link>/docs/cachemode/</link>
+    <description>Recent content in Cache Mode on UAsset Browser</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy;{year} Mary Nate, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 30 Jan 2020 10:10:56 +0900</lastBuildDate>
+    
+        <atom:link href="/docs/cachemode/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>What is Cache Mode</title>
+        <link>/docs/cachemode/whatiscachemode/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>/docs/cachemode/whatiscachemode/</guid>
+        <description>What is Cache Mode When UAsset Browser is opened, the folders/assets data will be gathered right away and saved in memory for displaying/validating/importing. The gathering process time is highly depending on the files number and the hardware performance.
+folder gathering
+asset gathering
+While swithcing to Cahce Mode, the processed folders/assets data will be stored in one cache database file, and can be serialized into memory as requested, and skip the time consuming gathering step.</description>
+      </item>
+      
+      <item>
+        <title>Enter and Exit Cache Mode</title>
+        <link>/docs/cachemode/enterexitcachemode/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>/docs/cachemode/enterexitcachemode/</guid>
+        <description>Enter Cache Mode There&amp;rsquo;re 2 ways to enter Cache Mode:
+1. Save and Switch to Cache Mode 2. Switch to Cache Mode (Without saving) </description>
+      </item>
+      
+      <item>
+        <title>Switch Cache Database File</title>
+        <link>/docs/cachemode/switchcachefile/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>/docs/cachemode/switchcachefile/</guid>
+        <description>Switch Cache Database File The defualt cache database file will be saved in current project&amp;rsquo;s Save folder with the file name UAssetBrowser.cachedb.
+You can type in cache file name directly in the cache file input text box (on bottom of Asset View) to change cache database file.
+If the input file is not exist, new file with the same path will be created automatically with current cached folders/assets data.
+Or you can click the &amp;hellip; button beside the file path to choose an existing cache dabase file in the file choose dialog.</description>
+      </item>
+      
+      <item>
+        <title>Rescan Revalidate Reparse</title>
+        <link>/docs/cachemode/rescanvalidateparse/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>/docs/cachemode/rescanvalidateparse/</guid>
+        <description>When in cache mode, folders/assets data are fetched from a cache database instead of folders/assets from file system. So it might getting out of sync when the folders/assets changed. There&amp;rsquo;re functionalities built in UAsset Browser to help resolving the outdated data issue without re-created the cache database from scratch.
+Rescan To make sure folders data up to date, you can right click a folder to Rescan current selected folder recursively.</description>
+      </item>
+      
+    
+  </channel>
+</rss>
